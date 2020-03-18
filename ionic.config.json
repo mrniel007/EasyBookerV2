@@ -1,5 +1,7 @@
 {
-  "name": "EasyBookerV3",
-  "integrations": {},
+  "name": "ionic-angular-course",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
