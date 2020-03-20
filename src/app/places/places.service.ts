@@ -26,7 +26,7 @@ export class PlacesService {
       'p3',
       'Occidental Punta Cana',
       'Complejo turístico que se encuentra en playa El Cortecito, a 10 km del naufragio Astron y a 24 km del aeropuerto de Punta Cana.',
-      'https://lh5.googleusercontent.com/p/AF1QipNOdGHfci87lEOF2VG3zL4sL0Ycp9fa0DhHEaS3=s387-k-no',
+      'https://q-cf.bstatic.com/images/hotel/max1024x768/199/199954767.jpg',
       199.99
     ),
 
