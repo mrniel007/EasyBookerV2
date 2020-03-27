@@ -10,11 +10,18 @@
       <ion-label position="floating">E-Mail</ion-label>
       <ion-input ></ion-input>
     </ion-item>
+    <ion-item>
+      <ion-label position="floating">Password</ion-label>
+      <ion-input type="password"></ion-input>
+    </ion-item>
   </ion-list>
   <!-- <div class="ion-text-center">
     <ion-spinner color="primary" *ngIf="isLoading"></ion-spinner>
   </div> -->
-  <ion-button color="primary" (click)="onLogin()">
+  <ion-button color="primary" fill="clear" expand="block">
+    Switch to Login
+  </ion-button>
+  <ion-button color="primary" (click)="onLogin()" expand="block">
     Login
   </ion-button>
 </ion-content>
